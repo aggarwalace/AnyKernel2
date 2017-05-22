@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=DirtyV by bsmitty83 @ xda-developers
+kernel.string=Accent-kernel by aggarwalace @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
+device.name1=hydrogen
+device.name2=helium
+device.name3=
 device.name4=
 device.name5=
 } # end properties
